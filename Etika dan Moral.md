@@ -1,2 +1,6 @@
-## Etika dan Motal
-  Etika  berasal dari bahasa Yunani ”ethos” yang berartiadat istiadat atau kebiasaan yang baik.
+## Etika dan Moral
+  Etika  berasal dari bahasa Yunani ”ethos” yang berartiadat istiadat atau kebiasaan yang baik. Menurut KBBI etika merupakan ilmu tentang apa yang baik dan apa yang buruk terhadap hak dan kewajiban moral atau akhlak. Menurut Profesor Robert Salomon, etika merupakan karakter individu hala ini termasuk bawah orang beretika adalah orang baik. Dari beberapa pengertian di atas dapat kita gambarkan pula bahwa etika merupakan ilmu tentang nilai yang benar dan nilai yang salah. 
+  
+  Dalam kaitan pada masyarakat terdapat istilah etika profesi, yaitu etika yang harus dipatuhi dan diterapkan oleh suatu profesi sesuai dengan etika yang ada di dunia kerja. Pengertian lebih lanjut tentang etika profesi adalah sebuah sikap hidup yang bertujuan untuk memberikan pelayanan kepada seseorang yang sifatnya profesional. Etika profesi berperan sebagai tata cara atau norma yang secara tegas menyatakan baik buruknya sikap seorang profesional untuk bertindak sesuai aturan yang sudah diterapkan.
+  
+  Sedangkan moral secara etimologis, moral sama dengan etika. Berasal dari bahasa Latin "_mos_" yang juga berarti sebagai adat kebiasaan. Moral sama dengan etika yaitu nilai dan norma dalam tingkah laku seseorang di dalam lingkungan hidupnya.
