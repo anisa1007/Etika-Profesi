@@ -3,13 +3,14 @@
   <ol>
   <li>Memberi pedoman bagi anggota asosiasi dalam aspek-aspek etika dan moral.</li>
   <li>Memberi perlindungan bagi kelompok masyarakat terhadap berbagai macam perilaku yang merugikan sebagai akibat adanya kegiatan di bidang profesi yang bersangkutan.</li>
+  </ol>
   
-  ## Usaha untuk meningkatkan kode etik
+ ## Usaha untuk meningkatkan kode etik
   <ol>
     <ul>Menyebarkan dokumen kode etik kepada orang yang menyandang profesi yang bersangkutan</ul>
     <ul>Melakukan promosi etika professional</ul>
     <ul>Memberikan sanksi disipliner yang melanggar kode etik</ul>
   </ol>
   
-  ## Penyebab Pelanggaran Etika
+ ## Penyebab Pelanggaran Etika
     Ada beberapa penyebab pelanggaran etika yang tidak etis. 
