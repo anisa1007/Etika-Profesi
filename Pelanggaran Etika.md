@@ -28,7 +28,9 @@
   <li> <h4>Sanksi Sosial</h4> 
   Karena etika adalah norma sosial yang berkembang dengan kehidupan masyarakat, jika terjadi pelanggaran, maka sanksi pelanggaran tersebut dapat berupa sanksi sosial. Sanksi Sosial bisa dapat berupa peneguran dari pemuka masyarakat hingga pengucilan dari masyarakat</li>
   <li> <h4>Sanksi Hukum</h4>
-  Sanksi hukum mengukur kegiatan-kegiatan etika yang kebetulan selaras dengan aturan hukum. Jika pelanggaran etika sudah mengarah pada pelanggaran hukum seperti korupsi, maka hukum yang akan berbicara. Dalam hal ini hukum pidana menjadi hukum teratas. Sedangkan hukum perdata menempati perioritas berikutnya. Hukum disiplin merupakan bagian dari hukum pidana. </li>
+  Sanksi hukum mengukur kegiatan-kegiatan etika yang kebetulan selaras dengan aturan hukum. Jika pelanggaran etika sudah mengarah pada pelanggaran hukum seperti korupsi, maka hukum yang akan berbicara. Dalam hal ini hukum pidana menjadi hukum teratas. Sedangkan hukum perdata menempati perioritas berikutnya. </li>
+  <li> <h4>Hukum disiplin</h4>
+  Hukum disiplin merupakan bagian dari hukum pidana. Mengatur bagi suatu golongan atau profesi yang bergerak dalam aktivitas sosial kemasyarakatan yang keputusannya dipatuhi anggota. Terbagi menjadi dua golongan yaitu hirarki (militer, PNS, dll) dan non hirarki (akuntan dan profesi lainnya). Memiliki ciri hukuman tidak terlalu keras dan lebih ke penegakan moral.</li>
   </ul>
   
   
